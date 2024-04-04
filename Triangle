@@ -1,0 +1,5 @@
+a=int(input("Enter side: ")) 
+b= int(input("Enter base: ")) 
+c= int(input("Enter side: ")) 
+perimeter =(a+b+c)
+print("perimeter of the Triangle",perimeter)
