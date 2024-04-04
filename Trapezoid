@@ -1,0 +1,6 @@
+a = int(input("Enter side length: ")) 
+b= int(input("Enter side length: ")) 
+c = int(input("Enter side length: "))
+d = int(input("Enter side length: "))
+perimeter = (a+b+c+d)
+print("Perimeter of the Trapezoid",perimeter
